@@ -291,4 +291,4 @@ Herşeyimiz hazır olduğuna göre artık son olarak hazıraldığımız helper 
 
 </body>
 
-Projemizi artık derletip çalıştırdığımızda karşımıza aşağıdaki görsellerdeki gibi bir ekran çıkacaktır. 
+Projemizi artık derletip çalıştırdığımızda karşımıza asonsuz seviyeli bir menü örneği çıkacaktır.
